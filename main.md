@@ -25,8 +25,8 @@ The Pirate Party UK firmly believes in adopting a proportional representation el
 The party advocates for increased citizen participation in decision-making processes through direct democracy tools such as referendums and citizen initiatives. They aim to empower citizens and give them a direct voice in shaping policies and legislation.
 
 # PR
-## Pirate Uniform 😮
-The Pirate Party UK promotes the wearing of pirate uniforms as a symbol of their commitment to transparency, accountability, and challenging the traditional political establishment. It signifies their dedication to bringing a fresh and honest approach to politics.
+## Pirate Costume for Fundraising 😮
+The Pirate Party UK embraces a rebellious spirit when it comes to fundraising and engaging with supporters. The party encourages the use of rebellious pirate costumes during fundraising events as a bold and captivating way to generate funds and promote their principles of transparency and accountability. By embracing the rebellious nature of pirates, supporters can make a statement while demonstrating their unwavering support for the party's mission. The rebellious pirate costume for fundraising events serves as a symbol of the party's determination to challenge the status quo, fight for digital rights, and advocate for a more democratic and inclusive society.
 ## Honesty / Transparency
 The party places a strong emphasis on honesty and transparency in all aspects of governance. They are committed to open and accountable political processes, disclosing information to the public, and ensuring integrity in decision-making.
 ## Media Appearances
