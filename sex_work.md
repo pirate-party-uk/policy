@@ -1,15 +1,11 @@
 # Sex Work
 The Pirate Party UK supports the decriminalization of sex work, viewing it as a matter of individual choice, bodily autonomy, and labor rights. They advocate for policies that prioritize the safety, health, and well-being of sex workers, including access to support services and legal protections.
 
-
 ## Opposition to Legalization
 In alignment with the Pirate Party UK's stance, concerns are raised about the potential negative consequences of legalization, such as the creation of a two-tier system that could further marginalize and criminalize vulnerable individuals. The party emphasizes the need to avoid excessive licensing and regulatory requirements that could restrict access to the industry.
 
-
-
 ## Cooperative Work and Home
 The party emphasizes the creation of cooperative workspaces and homes where sex workers can engage in their work safely and collaboratively. This aligns with the Pirate Party UK's emphasis on empowering sex workers and ensuring their well-being.
-
 
 ## Power in the Hands of Worker
  The Pirate Party UK supports the idea of putting power in the hands of sex workers, advocating for their agency, labor rights, and control over their earnings. They believe that decriminalization can shift the balance of power and create a fairer and more equitable environment for sex workers.
@@ -34,7 +30,6 @@ The Pirate Party UK supports the full decriminalization of sex work, which inclu
 
 ### Exploitation and Migrant Workers
 The importance of addressing exploitation and improving working conditions for migrant sex workers and other migrant workers is emphasized. The Pirate Party UK highlights the need for comprehensive support systems that protect the rights and well-being of individuals in these vulnerable situations.
-
 
 ### Challenging the Law
 The existing legal framework can often pose a threat to sex workers and migrants, leading to their exploitation and endangerment. The Pirate Party UK aims to challenge these laws and advocate for alternative approaches that prioritize the safety and happiness of individuals, with a focus on decriminalizing human movement.
