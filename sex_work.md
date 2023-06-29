@@ -1,0 +1,2 @@
+# Sex Work
+The Pirate Party UK supports the decriminalization of sex work, viewing it as a matter of individual choice, bodily autonomy, and labor rights. They advocate for policies that prioritize the safety, health, and well-being of sex workers, including access to support services and legal protections.
