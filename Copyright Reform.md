@@ -5,11 +5,9 @@ The Pirate Party UK is committed to reshaping copyright policies to address the 
 
 2. **Voluntary Collective Licensing:** Encourage the development of voluntary collective licensing schemes that simplify the process of obtaining licenses for the use of copyrighted works, benefiting both users and creators.[^1]
 
-3. **Protection for Whistleblowers:** Advocate for legal protections for whistleblowers who expose copyright abuses or illegal practices within corporations or government entities, ensuring transparency and accountability in copyright enforcement.[^1]
+3. **Educational Use Exemption:** Establish clear exemptions for the use of copyrighted material in educational settings, enabling educators and students to utilize copyrighted works for educational purposes without fear of legal repercussions.[^1]
 
-4. **Educational Use Exemption:** Establish clear exemptions for the use of copyrighted material in educational settings, enabling educators and students to utilize copyrighted works for educational purposes without fear of legal repercussions.[^1]
-
-5. **User Representation in Copyright Policy:** Promote the inclusion of user representatives and public interest advocates in copyright policy-making processes, ensuring a balanced and inclusive approach to copyright reform.[^1]
+4. **User Representation in Copyright Policy:** Promote the inclusion of user representatives and public interest advocates in copyright policy-making processes, ensuring a balanced and inclusive approach to copyright reform.[^1]
 
 **Should-Have (S):**
 1. **Open Access to Research:** Support policies that promote open access to publicly-funded research, making scientific and academic publications freely available to the public, which can accelerate innovation and knowledge dissemination.[^2]
