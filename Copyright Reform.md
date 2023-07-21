@@ -1,3 +1,5 @@
+The Pirate Party UK is committed to reshaping copyright policies to address the challenges and opportunities of the digital age. Our comprehensive approach to copyright reform seeks to strike a balance between protecting creators' rights and fostering a vibrant creative landscape while ensuring the public's access to knowledge and culture. We believe that copyright should adapt to the modern world, empowering individuals, promoting innovation, and supporting educational and artistic endeavors. By advocating for necessary changes, voluntary collective licensing, and user representation, we aim to create a copyright framework that is fair, flexible, and reflective of the values of the digital era.
+
 **Must-Have (M):**
 1. **Digital Preservation:** Implement policies that allow cultural institutions such as libraries, museums, and archives to preserve and provide access to digital content, ensuring the long-term availability of important works for research and educational purposes.[^1]
 
