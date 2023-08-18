@@ -28,7 +28,7 @@ At the heart of the Pirate Party UK (PPUK) is the belief in democratic principle
 
 11. **Inclusivity and Representation**: PPUK believes in promoting inclusivity and representation in all aspects of governance. Please make sure that diverse voices are heard and accounted for in decision-making processes.
 
-### Won't-Have
+### Like Have
 
 4. **Addressing Historical Injustices**: PPUK acknowledges the history of cultural suppression and mistreatment experienced by various nations within the UK. While we recognize the importance of addressing historical injustices, we acknowledge that directly implementing this aspect is outside the scope of this policy.
 
