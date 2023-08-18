@@ -1,4 +1,4 @@
-## Independent and Union
+## Policy Statement: Self-Determination and Cooperation within the UK
 
 At the heart of the Pirate Party UK (PPUK) is the belief in democratic principles, self-determination, and collaboration. As such, we recognize the diverse opinions on Scottish and Welsh independence within the United Kingdom. Our policy seeks to balance the right to self-determination with the benefits of unity and cooperation.
 
@@ -16,7 +16,7 @@ At the heart of the Pirate Party UK (PPUK) is the belief in democratic principle
 
 5. **Equitable Power Dynamics**: PPUK emphasizes the importance of maintaining equitable power dynamics within the UK. We aim to create a structure where decisions are made collaboratively, and all nations have a say in matters that affect them, thus avoiding undue dominance of any single nation over the others.
 
-6. **Inclusive National Identity**: PPUK seeks to foster an inclusive national identity that celebrates the UK's shared values and its constituent nations' unique identities. Promote the idea that staying within the UK allows nations to contribute to and shape this inclusive identity while maintaining their cultural heritage.
+6. **Inclusive National Identity**: PPUK seeks to foster an inclusive national identity that celebrates the UK's shared values and its constituent nations' unique identities. Promote that staying within the UK allows nations to contribute to and shape this inclusive identity while maintaining their cultural heritage.
 
 7. **Resource Sharing for Common Goals**: PPUK believes in the potential for resource sharing among nations to achieve common goals, such as infrastructure development, healthcare advancements, and environmental sustainability. This cooperation can lead to more effective solutions that benefit all citizens.
 
@@ -30,10 +30,11 @@ At the heart of the Pirate Party UK (PPUK) is the belief in democratic principle
 
 11. **Mutual Benefits of Unity**: PPUK believes in highlighting the mutual benefits of unity among the nations of the UK. Emphasize the advantages of a united approach in addressing global challenges, leveraging collective resources, and maximizing economic growth and prosperity opportunities.
 
-### Like
+### Could-Have - Extension
 
 12. **Extension of Democratic Mechanism**: PPUK also recognizes the importance of democratic self-determination at a more local level. We advocate for exploring mechanisms that allow regions, unitary authorities, counties, and British Overseas Territories to become nations within the United Kingdom if their citizens express a clear desire for such status. This mechanism should be fair, transparent, and aligned with democratic principles.
 
+### Have
 
 13. **Cultural Exchange and Collaboration**: PPUK supports promoting cultural exchange and collaboration among all nations within the UK. Highlight the richness and diversity that different cultures bring to the collective identity of the UK, and showcase how these cultural exchanges can lead to a stronger sense of unity while celebrating unique heritage.
 
@@ -46,5 +47,3 @@ At the heart of the Pirate Party UK (PPUK) is the belief in democratic principle
 17. **Removal of Section 35 of the Scotland Act 1998**: PPUK supports the removal of Section 35 of the Scotland Act 1998, which was used to prevent the royal assent of certain bills. This move would promote a more open and democratic approach to legislative decisions, allowing for greater autonomy and decision-making power for the Scottish Parliament.
 
 18. **Dynamic Constitutional Review**: PPUK proposes a dynamic constitutional review process that adapts to changing circumstances. This review mechanism ensures that the rights, responsibilities, and relationships among the nations within the UK remain relevant and responsive to evolving needs and aspirations.
-
-PPUK acknowledges that this policy is subject to further discussion, research, and consultation with our members and relevant stakeholders. We remain committed to fostering a fair and inclusive dialogue on Scottish and Welsh independence within the United Kingdom.
