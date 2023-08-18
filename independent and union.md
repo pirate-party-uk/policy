@@ -22,28 +22,26 @@ At the heart of the Pirate Party UK (PPUK) is the belief in democratic principle
 
 8. **Devolution of Power to the Nations**: PPUK encourages the continued devolution of power to the nations within the UK. This ensures that decisions are made at the most appropriate level and that citizens have a direct say in matters that affect their daily lives, thereby reinforcing the democratic principles that underpin the UK's governance structure.
 
-### Like to Have
-
-9. **Financial Incentives for Transition**: PPUK recognizes the potential financial implications of independence. To facilitate a smooth transition, we propose exploring mechanisms such as providing financial support or "refund" for a specified period following independence to support economic stability during the transition phase.
-
 10. **Shared Governance Framework**: PPUK advocates for establishing a shared governance framework that allows for greater representation of all nations within the UK. This framework should provide a platform for open discussions and decision-making on matters of mutual interest, fostering a sense of belonging and participation.
 
-11. **Mutual Benefits of Unity**: PPUK believes in highlighting the mutual benefits of unity among the nations of the UK. Emphasize the advantages of a united approach in addressing global challenges, leveraging collective resources, and maximizing economic growth and prosperity opportunities.
 
-### Could-Have - Extension
+11. **Removal of Section 35 of the Scotland Act 1998**: PPUK supports the removal of Section 35 of the Scotland Act 1998, which was used to prevent the royal assent of certain bills. This move would promote a more open and democratic approach to legislative decisions, allowing for greater autonomy and decision-making power for the Scottish Parliament.
+   
+### Like to Have
 
-12. **Extension of Democratic Mechanism**: PPUK also recognizes the importance of democratic self-determination at a more local level. We advocate for exploring mechanisms that allow regions, unitary authorities, counties, and British Overseas Territories to become nations within the United Kingdom if their citizens express a clear desire for such status. This mechanism should be fair, transparent, and aligned with democratic principles.
+12. **Mutual Benefits of Unity**: PPUK believes in highlighting the mutual benefits of unity among the nations of the UK. Emphasize the advantages of a united approach in addressing global challenges, leveraging collective resources, and maximizing economic growth and prosperity opportunities.
 
-### Have
 
-13. **Cultural Exchange and Collaboration**: PPUK supports promoting cultural exchange and collaboration among all nations within the UK. Highlight the richness and diversity that different cultures bring to the collective identity of the UK, and showcase how these cultural exchanges can lead to a stronger sense of unity while celebrating unique heritage.
+13. **Extension of Democratic Mechanism**: PPUK also recognizes the importance of democratic self-determination at a more local level. We advocate for exploring mechanisms that allow regions, unitary authorities, counties, and British Overseas Territories to become nations within the United Kingdom if their citizens express a clear desire for such status. This mechanism should be fair, transparent, and aligned with democratic principles.
 
-14. **Stronger Together in International Affairs**: PPUK underscores the importance of presenting a united front internationally. Emphasize how a cohesive UK can have a more influential voice in global negotiations, treaties, and alliances, ultimately benefiting all nations within the UK by preserving their interests and sovereignty.
 
-15. **Open Dialogue and Engagement**: PPUK encourages ongoing open dialogues and engagement with citizens across all nations. Could you highlight the importance of including the public in discussions about the UK's future, allowing their voices to be heard and considered in the decision-making process?
+14. **Cultural Exchange and Collaboration**: PPUK supports promoting cultural exchange and collaboration among all nations within the UK. Highlight the richness and diversity that different cultures bring to the collective identity of the UK, and showcase how these cultural exchanges can lead to a stronger sense of unity while celebrating unique heritage.
+
+15. **Stronger Together in International Affairs**: PPUK underscores the importance of presenting a united front internationally. Emphasize how a cohesive UK can have a more influential voice in global negotiations, treaties, and alliances, ultimately benefiting all nations within the UK by preserving their interests and sovereignty.
+
+16. **Open Dialogue and Engagement**: PPUK encourages ongoing open dialogues and engagement with citizens across all nations. Could you highlight the importance of including the public in discussions about the UK's future, allowing their voices to be heard and considered in the decision-making process?
 
 16. **Inclusivity and Representation**: In the event of an independence referendum, we advocate for comprehensive and unbiased information campaigns that present the pros and cons of different outcomes. The electorate should be empowered with accurate information to make an informed decision.
 
-17. **Removal of Section 35 of the Scotland Act 1998**: PPUK supports the removal of Section 35 of the Scotland Act 1998, which was used to prevent the royal assent of certain bills. This move would promote a more open and democratic approach to legislative decisions, allowing for greater autonomy and decision-making power for the Scottish Parliament.
 
-18. **Dynamic Constitutional Review**: PPUK proposes a dynamic constitutional review process that adapts to changing circumstances. This review mechanism ensures that the rights, responsibilities, and relationships among the nations within the UK remain relevant and responsive to evolving needs and aspirations.
+17. **Dynamic Constitutional Review**: PPUK proposes a dynamic constitutional review process that adapts to changing circumstances. This review mechanism ensures that the rights, responsibilities, and relationships among the nations within the UK remain relevant and responsive to evolving needs and aspirations.
