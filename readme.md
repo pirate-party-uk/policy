@@ -3,18 +3,18 @@
 This repository provides an overview of the policy positions and key principles of the Pirate Party UK. The Pirate Party UK is a political party that advocates for various progressive policies and reforms across multiple areas. This `readme.md` file serves as a summary of the party's stances on different topics.
 
 ## Table of Contents
-- [Sex_work](sex_work.md)
+- [Sex Work](sex_work.md)
 - [Nursing](nursing.md)
 - [Democracy](democracy.md)
-- [Civil_rights](civil_rights.md)
-- [Recreational_Drugs](Recreational_Drugs.md)
+- [Civil Rights](civil_rights.md)
+- [Recreational Drugs](recreational_drugs.md)
 - [Censorship](censorship.md)
-- [Transparency and Privacy Protection for Public Institutions](Transparency and Privacy Protection for Public Institutions.md)
-- [Open Access and Open Data Policy](Open Access and Open Data Policy.md)
-- [Nationalisation](Nationalisation.md)
-- [Free Software and Libre Culture Advocacy](Free Software and Libre Culture Advocacy.md)
-- [Environmental](Environmental.md)
-- [Economics](Economics.md)
+- [Transparency and Privacy Protection for Public Institutions](transparency_and_privacy_protection.md)
+- [Open Access and Open Data Policy](open_access_and_open_data_policy.md)
+- [Nationalisation](nationalisation.md)
+- [Free Software and Libre Culture Advocacy](free_software_and_libre_culture_advocacy.md)
+- [Environmental](environmental.md)
+- [Economics](economics.md)
 
 ## Summary
 
@@ -34,11 +34,8 @@ The Pirate Party UK is committed to promoting progressive policies and reforms i
 
 - **Nursing:** The party aims to address the nursing crisis, improve pay and working conditions, and mitigate the impact of Brexit on healthcare.
 
-- **PR:** The party emphasizes honesty, transparency, and effective media appearances to communicate their policies.
 
 - **Recreational Drugs:** The Pirate Party UK believes in prioritizing harm reduction, education, and treatment over criminalization.
 
 - **Sex Work:** The party supports the decriminalization of sex work, prioritizing individual choice, bodily autonomy, and labor rights.
-
-Please refer to the respective files for more detailed information on each topic.
 
