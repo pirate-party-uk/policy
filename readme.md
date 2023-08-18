@@ -3,16 +3,18 @@
 This repository provides an overview of the policy positions and key principles of the Pirate Party UK. The Pirate Party UK is a political party that advocates for various progressive policies and reforms across multiple areas. This `readme.md` file serves as a summary of the party's stances on different topics.
 
 ## Table of Contents
-- [Censorship](censorship.md)
-- [Civil Rights](civil_rights.md)
-- [Democracy](democracy.md)
-- [Economics](economics.md)
-- [Environmental](environmental.md)
-- [Nationalisation](nationalisation.md)
+- [Sex_work](sex_work.md)
 - [Nursing](nursing.md)
-- [PR](PR.md)
-- [Recreational Drugs](recreational_drugs.md)
-- [Sex Work](sex_work.md)
+- [Democracy](democracy.md)
+- [Civil_rights](civil_rights.md)
+- [Recreational_Drugs](Recreational_Drugs.md)
+- [Censorship](censorship.md)
+- [Transparency and Privacy Protection for Public Institutions](Transparency and Privacy Protection for Public Institutions.md)
+- [Open Access and Open Data Policy](Open Access and Open Data Policy.md)
+- [Nationalisation](Nationalisation.md)
+- [Free Software and Libre Culture Advocacy](Free Software and Libre Culture Advocacy.md)
+- [Environmental](Environmental.md)
+- [Economics](Economics.md)
 
 ## Summary
 
