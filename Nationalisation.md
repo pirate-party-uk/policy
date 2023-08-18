@@ -14,7 +14,7 @@ The party emphasizes the need to increase funding for public services to improve
 
 #### Developing Comprehensive Workforce Plans
 
-To address the evolving needs of the population and the complexities of service provision, the Pirate Party UK calls for the prioritization of comprehensive workforce plans. These plans should take into account demographic shifts, technological advancements, and changing patient (NHS) or client needs. By strategically planning for workforce recruitment, training, and retention, the government can ensure a skilled and sustainable workforce that can effectively deliver services to the public.
+To address the evolving needs of the population and the complexities of service provision, the Pirate Party UK calls for the prioritization of comprehensive workforce plans. These plans should consider demographic shifts, technological advancements, and changing patient, passenger, pupil, client, etc needs. By strategically planning for workforce recruitment, training, and retention, the government can ensure a skilled and sustainable workforce that can effectively deliver services to the public.
 
 #### Creating Favorable Working Conditions
 
