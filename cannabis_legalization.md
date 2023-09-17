@@ -17,7 +17,7 @@ The Pirate Party UK advocates for the legalization of cannabis for recreational 
 
 - Treating possession of cannabis products, including both the plant material and its THC content, as legal for personal use by adults, with a possession limit set at 30 grams.
 
-- Legalizing the possession of up to 30 grams of cannabis, which includes both the weight of the plant material and the THC content, for personal use by adults.
+- Legalizing the possession of up to 30 grams plant material or 9 grams THC for personal use by adults, for personal use by adults.
 
 - Redirecting law enforcement resources towards tackling more serious crimes and addressing the root causes of drug addiction.
 
