@@ -1,4 +1,4 @@
-# Pirate Party UK Policy on Cannabis Decriminalization and Possession for Recreational Use
+# Pirate Party UK Policy on Cannabis Legalization
 
 ## Cannabis for Medical Use
 
