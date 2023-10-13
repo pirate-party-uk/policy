@@ -24,6 +24,4 @@ Promoting local power generation and distribution is a priority for the Pirate P
 
 - **Job Creation:** Emphasize the potential for job creation within the renewable energy sector. Local power generation and distribution projects can stimulate economic growth and create employment opportunities in the community.
 
-- **Transition Plans:** Develop comprehensive transition plans that outline the path to a sustainable energy future, with clear milestones and objectives for reducing dependence on fossil fuels.
-
 By promoting local power generation and distribution, including the development of a competitive microgrid market, we aim to empower communities to take control of their energy future, reduce carbon emissions, enhance energy security, foster economic growth, and offer more affordable and sustainable energy options while protecting the environment. This approach aligns with our commitment to sustainable and resilient local communities.
