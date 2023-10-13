@@ -15,6 +15,7 @@ This repository provides an overview of the policy positions and key principles 
 10. [Free Software and Libre Culture](free_software_and_libre_culture_advocacy.md)
 11. [Environmental](environmental.md)
 12. [Economics](economics.md)
+12. [trans](Trans.md)
 
 ## Summary
 
