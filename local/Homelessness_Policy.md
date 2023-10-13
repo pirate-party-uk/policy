@@ -28,14 +28,16 @@
 
 13. **Legal Assistance:** Provide legal assistance and representation to individuals experiencing homelessness who face legal challenges, such as eviction or criminal charges related to homelessness.
 
-14. **Homeless Outreach Teams:** Establish outreach teams comprising trained professionals and social workers who can connect with individuals experiencing homelessness, assess their needs, and guide them to appropriate services.
+14. **Hostile Architecture Awareness:** Address the issue of hostile architecture, which may be used to deter individuals experiencing homelessness from public spaces, and advocate for more compassionate urban design and infrastructure.
 
-15. **Coordination with Local Agencies:** Collaborate with local government agencies, law enforcement, healthcare providers, and nonprofit organizations to create a coordinated and efficient response to homelessness.
+15. **Homeless Outreach Teams:** Establish outreach teams comprising trained professionals and social workers who can connect with individuals experiencing homelessness, assess their needs, and guide them to appropriate services.
 
-16. **Transitional Housing:** Develop transitional housing options that serve as a bridge between emergency shelters and permanent housing, offering additional support and stability.
+16. **Coordination with Local Agencies:** Collaborate with local government agencies, law enforcement, healthcare providers, and nonprofit organizations to create a coordinated and efficient response to homelessness.
 
-17. **Public Awareness and Education:** Conduct public awareness campaigns to reduce stigma and increase understanding of the complex factors contributing to homelessness.
+17. **Transitional Housing:** Develop transitional housing options that serve as a bridge between emergency shelters and permanent housing, offering additional support and stability.
 
-18. **Regular Policy Review:** Regularly evaluate the effectiveness of homelessness policies and make necessary adjustments based on the evolving needs of the community.
+18. **Public Awareness and Education:** Conduct public awareness campaigns to reduce stigma and increase understanding of the complex factors contributing to homelessness.
+
+19. **Regular Policy Review:** Regularly evaluate the effectiveness of homelessness policies and make necessary adjustments based on the evolving needs of the community.
 
 Addressing homelessness requires a multi-faceted and compassionate approach that prioritizes housing stability, supportive services, and community engagement. Pirate Party UK (PPUK) is committed to working at the local level to provide comprehensive solutions and support for those experiencing homelessness, creating a more inclusive and compassionate community for all.
