@@ -1,6 +1,5 @@
 # Pirate Party UK - Policy Overview
 
-
 Welcome to the Pirate Party UK's Policy Overview. In this repository, we present a comprehensive view of our policy positions and core principles. As the Pirate Party UK, we are dedicated to advocating for progressive policies and reforms across a wide range of important issues. We believe in a future that is fair, open, and inclusive for all.
 
 Our policies are structured to address a diverse set of challenges, and we are committed to being transparent about our positions. The following sections provide detailed insights into our stances on various topics. Click on the links below to explore specific policy areas:
@@ -21,14 +20,6 @@ Our policies are structured to address a diverse set of challenges, and we are c
 13. [Trans](Trans.md)
 14. [Local Policy](./local/readme.md)
 
-
-## Summary
-
-The Pirate Party UK is committed to promoting progressive policies and reforms in various areas. Here is a brief summary of their key positions:
-
-# Pirate Party UK - Policy Overview
-
-This repository provides an overview of the policy positions and key principles of the Pirate Party UK. The Pirate Party UK is a political party that advocates for various progressive policies and reforms across multiple areas. This `readme.md` file serves as a summary of the party's stances on different topics.
 
 ## Summary
 
