@@ -4,6 +4,3 @@ The Pirate Party UK recognizes the urgent need to address global warming and cli
 ## Sewage
 The party emphasizes the importance of proper sewage management to protect water bodies, prevent pollution, and safeguard the environment. They support investment in infrastructure and technologies that improve sewage treatment and reduce the ecological impact.
 
-
-# Copyright
-The party aims to reform copyright laws to strike a balance between protecting the rights of creators and promoting the free flow of information, innovation, and creativity. They advocate for fair use provisions, shorter copyright terms, and support for open-source and Creative Commons licensing.
