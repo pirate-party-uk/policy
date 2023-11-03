@@ -1,4 +1,3 @@
-# Nursing
 ## Addressing the Nursing Crisis:
 
 a. Increase funding for the National Health Service (NHS) to improve staffing levels, including recruiting and retaining more nurses. This can be achieved through allocating a higher percentage of the government budget to healthcare and implementing targeted funding for nursing education and training programs.
