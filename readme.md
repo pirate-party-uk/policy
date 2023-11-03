@@ -6,7 +6,7 @@ Our policies are structured to address a diverse set of challenges, and we are c
 
 ## Table of Contents
 1. [Sex Work](sex_work.md)
-2. [Nursing](nursing.md)
+2. [Nursing](./Heath/nursing.md)
 3. [Democracy](democracy.md)
 4. [Civil Rights](civil_rights.md)
 5. [Recreational Drugs](recreational_drugs.md)
