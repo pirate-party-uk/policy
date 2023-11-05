@@ -2,34 +2,34 @@
 
 This document outlines a series of policy proposals aimed at restoring trust in democracy. Each proposal addresses a specific aspect of the democratic process and governance in the UK. Click on the links below to learn more about each proposal:
 
-1. [**Votes At 16**](./votes%20at%2016.md)
+1. [**Votes At 16**](./Votes%20At%2016.md)
    - Advocates for lowering the voting age to 16 to increase political engagement among young people.
 
-2. [**Restrict MPs' Ability To Have Second Jobs**](./restrict%20mps%20ability%20to%20have%20second%20jobs.md)
+2. [**Restrict MPs' Ability To Have Second Jobs**](./Restrict%20Mps%20Ability%20To%20Have%20Second%20Jobs.md)
    - Proposes limiting the number of hours MPs can work in other roles to avoid conflicts of interest.
 
-3. [**Require Sensible Service Contracts**](./require%20sensible%20service%20contracts.md)
+3. [**Require Sensible Service Contracts**](./Require%20Sensible%20Service%20Contracts.md)
    - Calls for accountability in public service contracts to ensure quality service to communities.
 
-4. [**Require Government Ministers To Have Relevant Experience**](./require%20government%20ministers%20to%20have%20relevant%20experience.md)
+4. [**Require Government Ministers To Have Relevant Experience**](./Require%20Government%20Ministers%20To%20Have%20Relevant%20Experience.md)
    - Recommends setting minimum standards of knowledge and experience for government ministers.
 
-5. [**Remove Financial Barriers To Standing In Elections**](./remove%20financial%20barriers%20to%20standing%20in%20elections.md)
+5. [**Remove Financial Barriers To Standing In Elections**](./Remove%20Financial%20Barriers%20To%20Standing%20In%20Rlections.md)
    - Suggests abolishing candidacy deposits to encourage participation by independent and small%20party candidates.
 
-6. [**Remove Bishops From The House Of Lords**](./remove%20bishops%20from%20the%20house%20of%20lords.md)
+6. [**Remove Bishops From The House Of Lords**](./Remove%20Bishops%20From%20The%20House%20Of%20Lords.md)
    - Argues for the removal of Bishops from the House of Lords to improve representation.
 
-7. [**Reform The House Of Lords**](./reform%20the%20house%20of%20lords.md)
+7. [**Reform The House Of Lords**](./Reform%20The%20House%20Of%20Lords.md)
    - Proposes a national discussion to reform the House of Lords while preserving its role as an expert body.
 
-8. [**Reform MPs' Pay**](./reform%20mps%20pay.md)
+8. [**Reform MPs' Pay**](./Reform%20Mps%20Pay.md)
    - Recommends reforming MPs' pay and linking it to a prosperity measure.
 
-9. [**Rate All Spending In Pounds Per QALY**](./rate%20all%20spending%20in%20pounds%20per%20qaly.md)
+9. [**Rate All Spending In Pounds Per QALY**](./Rate%20All%20Spending%20In%20Pounds%20Per%20Qaly.md)
    - Advocates for using a uniform measure (Pounds per QALY.md) in decision%20making across all government spending areas.
 
-10. [**Make Parliament Work**](./make%20parliament%20work.md)
+10. [**Make Parliament Work**](./Make%20Parliament%20Work.md)
     - Proposes measures to improve the quality of legislation and reduce the power of Whips in the Commons.
 
 11. [**Independent Public Spending Reviews**](./independent%20public%20spending%20reviews.md)
