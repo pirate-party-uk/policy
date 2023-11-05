@@ -65,12 +65,12 @@ This document presents a set of policy proposals related to healthcare and well-
 ## Equality In Blood Donation
 - Calls for lifting restrictions on blood donations from men who have sex with men.
 - Advocates for individual screening to ensure as many people as possible can donate blood.
-- [Read More](#equality-in-blood-donation)
+- [Read More](./Equality%20In%20Blood%20Donation.md)
 
 ## End Public Finance Initiatives Within The NHS
 - Recommends ending public finance initiatives (PFIs) and addressing their impact on NHS services.
 - Advocates for transparency and intervention in cases of inflated PFI costs.
-- [Read More](#end-public-finance-initiatives-within-the-nhs)
+- [Read More](./End%20Public%20Finance%20Initiatives%20Within%20The%20NHS.md)
 
 ## Ban Surgical Mutilation Of Minors' Genitals
 - Proposes a ban on surgical mutilation of both male and female minors' genitalia without clear medical justification.
