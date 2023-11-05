@@ -58,7 +58,6 @@ This document presents a set of policy proposals related to environmental conser
 - [Read More](./Adopt%20The%20Passive%20House%20Standard%20For%20All%20New%20Buildings.md)
 
 ## Adopt The Space For Cycling Framework
-
 - [Read More](./Adopt%20The%20Space%20For%20Cycling%20Framework.md)
 
 
