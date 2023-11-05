@@ -5,7 +5,7 @@ This document outlines a series of policy proposals aimed at restoring trust in 
 1. [**Votes At 16**](./Votes%20At%2016.md)
    - Advocates for lowering the voting age to 16 to increase political engagement among young people.
 
-2. [**Restrict MPs' Ability To Have Second Jobs**](./Restrict%20Mps%20Ability%20To%20Have%20Second%20Jobs.md)
+2. [**Restrict MPs' Ability To Have Second Jobs**](./Restrict%20MPs%20Ability%20To%20Have%20Second%20Jobs.md)
    - Proposes limiting the number of hours MPs can work in other roles to avoid conflicts of interest.
 
 3. [**Require Sensible Service Contracts**](./Require%20Sensible%20Service%20Contracts.md)
@@ -14,7 +14,7 @@ This document outlines a series of policy proposals aimed at restoring trust in 
 4. [**Require Government Ministers To Have Relevant Experience**](./Require%20Government%20Ministers%20To%20Have%20Relevant%20Experience.md)
    - Recommends setting minimum standards of knowledge and experience for government ministers.
 
-5. [**Remove Financial Barriers To Standing In Elections**](./Remove%20Financial%20Barriers%20To%20Standing%20In%20Rlections.md)
+5. [**Remove Financial Barriers To Standing In Elections**](./Remove%20Financial%20Barriers%20To%20Standing%20In%20Elections.md)
    - Suggests abolishing candidacy deposits to encourage participation by independent and small%20party candidates.
 
 6. [**Remove Bishops From The House Of Lords**](./Remove%20Bishops%20From%20The%20House%20Of%20Lords.md)
