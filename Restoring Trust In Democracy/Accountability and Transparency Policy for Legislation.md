@@ -22,11 +22,8 @@
 
 ## 6. Comprehensive Bill Assessment
 - Ensure that all bills scheduled for voting undergo a comprehensive assessment.
-
 - Establish a mechanism for the public to flag bills they believe are harmful.
-
 - A threshold number of public submissions or a petition could trigger a formal re-assessment by the Independent Expert Panel.
-
 - The Expert Panel should issue recommendations regarding the bill's harmful effects and potential corrective actions.
 
 ## 7. Remedial Actions
@@ -66,3 +63,13 @@
 - Ensure the availability of government advisors with expertise in various relevant fields to provide guidance to MPs, Lords, and political parties during the legislative process.
 - These government advisors should be selected based on their qualifications and should not be subject to political pressure, ensuring their independence and objectivity.
 - MPs, Lords, and political parties should be encouraged to consult government advisors on bills with significant implications to benefit from their specialized knowledge.
+
+## 17. International Law Considerations
+- While emphasizing adherence to international law, it is recognized that certain bills may intentionally challenge or breach international agreements or obligations for legitimate and specific reasons, such as safeguarding national interests or sovereignty and in the broader public interest.
+- MPs, Lords, and political parties may consider bills that intentionally breach international agreements, provided that:
+  - The bill is clearly identified as one that will intentionally breach an international agreement.
+  - The bill is thoroughly debated and discussed to establish a strong and compelling case for its necessity, with a focus on national interest, public welfare, or protection of sovereignty, and in the broader public interest.
+  - A clear and comprehensive explanation for the breach is provided in the legislative documentation, highlighting the specific reasons and justifications for the breach, including how it serves the broader public interest.
+- Bills that breach international agreements or obligations with no harm or consequences, as assessed by the Independent Expert Panel, may be considered without undue restriction.
+- Bills that intentionally breach international agreements or obligations must be subject to comprehensive assessment to ensure that the potential consequences, both domestically and internationally, have been carefully evaluated.
+- Transparency is of utmost importance when dealing with bills that intentionally breach international agreements, and any potential diplomatic consequences should be assessed and managed responsibly.
