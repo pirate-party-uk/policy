@@ -1,6 +1,6 @@
 # Nationalisation
 ## The NHS
-The Pirate Party UK strongly supports the nationalization of the National Health Service (NHS) to en./sure equitable access to high-quality healthcare services for all citizens. They aim to protect the NHS from privatization and prioritize public health over profit. [see more](./Heath/Reverse Privatisation Within The NHS.md)
+The Pirate Party UK strongly supports the nationalization of the National Health Service (NHS) to en./sure equitable access to high-quality healthcare services for all citizens. They aim to protect the NHS from privatization and prioritize public health over profit. [see more](nationalisation.md)
 ## Utilities
 The party advocates for the nationalization of essential utilities such as electricity, water, and gas. They believe that these vital services should be owned and operated in the public interest to ensure affordability, reliability, and sustainable management.
 ## Internet Service Provision

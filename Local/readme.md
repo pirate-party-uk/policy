@@ -4,39 +4,39 @@ Welcome to the local policy section of the Pirate Party's website. We believe in
 
 ## Core Local Policies
 
-1. [Addressing the Cost of Living Crisis](./Addressing%20the%20Cost%20of%20Living%20Crisis.md)
+1. [Addressing the Cost of Living Crisis](readme.md)
 
-2. [Annual Pride Celebrations](./Annual%20Pride%20Celebrations.md)
+2. [Annual Pride Celebrations](readme.md)
 
-3. [Better Infrastructure for Motor Vehicles, Bicycles, and Pedestrians](./Better%20Infrastructure%20for%20Motor%20Vehicles,%20Bicycles,%20and%20Pedestrians.md)
+3. [Better Infrastructure for Motor Vehicles, Bicycles, and Pedestrians](readme.md)
 
-4. [Child and Family Centers](./Child%20and%20Family%20Centers.md)
+4. [Child and Family Centers](readme.md)
 
-5. [Citizens_Assembly](./Citizens_Assembly.md)
+5. [Citizens_Assembly](readme.md)
 
-6. [District Heating and Cooling Local](./District%20Heating%20and%20Cooling%20Local.md)
+6. [District Heating and Cooling Local](readme.md)
 
-7. [Gender-Neutral Restrooms](./Gender-Neutral%20Restrooms.md)
+7. [Gender-Neutral Restrooms](readme.md)
 
-8. [Harm_Reduction_Policy](./Harm_Reduction_Policy.md)
+8. [Harm_Reduction_Policy](readme.md)
 
-9. [Homelessness_Policy](./Homelessness_Policy.md)
+9. [Homelessness_Policy](readme.md)
 
-10. [LGBT-Inclusive Education](./LGBT-Inclusive%20Education.md)
+10. [LGBT-Inclusive Education](readme.md)
 
-11. [Local Power Generation and Distribution](./Local%20Power%20Generation%20and%20Distribution.md)
+11. [Local Power Generation and Distribution](readme.md)
 
-12. [Mine Shafts, Oil wells, and Other Sites for Geothermal Heat and Cooling](./Mine%20Shafts,%20Oil%20Wells,%20and%20Other%20Sites%20for%20Geothermal%20Heat%20and%20Cooling.md)
+12. [Mine Shafts, Oil wells, and Other Sites for Geothermal Heat and Cooling](readme.md)
 
-13. [Public Toilets Open 24 Hours](./Public%20Toilets%20Open%2024%20Hours.md)
+13. [Public Toilets Open 24 Hours](readme.md)
 
-14. [Trees in Towns](./Trees%20in%20Towns.md)
+14. [Trees in Towns](readme.md)
 
-15. [Youth Empowerment](./Youth%20Empowerment.md)
+15. [Youth Empowerment](readme.md)
 
-16. [Open Websites](./Open%20Websites.md)
+16. [Open Websites](readme.md)
 
-17. [Online Consultations](./Online%20Consultations.md)
+17. [Online Consultations](readme.md)
 
 ## Local Policies
 

@@ -1,7 +1,7 @@
 Public CCTV Cameras
 ===================
 
-A [2013 report from the College of Policing](http://library.college.police.uk/docs/what-works/What-works-briefing-effects-of-CCTV-2013.pdf) 
+A [2013 report from the College of Policing](Public_CCTV_Cameras.md) 
 revealed that "CCTV can lead to a small reduction in crime" but "has no effect 
 on violent crime". Because of this we would refocus police resources on 
 preventing crime through more effective measures. We would also tightly regulate 

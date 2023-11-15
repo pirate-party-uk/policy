@@ -4,15 +4,15 @@ You have entered the official repository of the Pirate Party UK. Here, you will 
 
 ## Contents
 
-- [Environment Policy Proposals](./Environment/readme.md)
-- [Health Policy Proposals](./Heath/readme.md)
-- [Justice Policy Proposals](./Justice/readme.md)
-- [Local Policy Overview](./Local/readme.md)
-- [Restoring Trust In Democracy](./Restoring%20Trust%20In%20Democracy/readme.md)
-- [Restoring Trust In Society](./Restoring%20Trust%20In%20Society/readme.md)
-- [Restoring Transport](./Restoring%20Transport/readme.md)
-- [Welfare And Work](./Welfare%20And%20Work/readme.md)
-- [LGBTQ+ Pirate Party UK Index](./topic/LGBTQ+.md)
+- [Environment Policy Proposals](readme.md)
+- [Health Policy Proposals](readme.md)
+- [Justice Policy Proposals](readme.md)
+- [Local Policy Overview](readme.md)
+- [Restoring Trust In Democracy](readme.md)
+- [Restoring Trust In Society](readme.md)
+- [Restoring Transport](readme.md)
+- [Welfare And Work](readme.md)
+- [LGBTQ+ Pirate Party UK Index](readme.md)
 
 Feel free to explore the various policy documents by clicking the provided links. We believe in openness, and these policies reflect our commitment to making positive changes in our society.
 
