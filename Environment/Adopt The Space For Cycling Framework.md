@@ -2,9 +2,6 @@ Adopt The Space For Cycling Framework
 =====================================
 
 We would adopt the "Making Space for Cycling" framework.  
-
-* Cycle infrastructure funding to councils would be increased to £20 
-    per person 
  
 * Safeguards would ensure that it is spent on infrastructure that 
     primarily benefits cyclists
