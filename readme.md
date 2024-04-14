@@ -9,8 +9,8 @@ You have entered the official repository of the Pirate Party UK. Here, you will 
 - [Justice Policy Proposals](./Justice/readme.md)
 - [Local Policy Overview](./Local/readme.md)
 - [Restoring Trust In Democracy](./Restoring%20Trust%20In%20Democracy/readme.md)
-- [Restoring Trust In Society](./Restoring%20Trust%20In%20Society/readme.md)
-- [Restoring Transport](./Restoring%20Transport/readme.md)
+- [Society](./Society/readme.md)
+- [Transport](./Transport/readme.md)
 - [Welfare And Work](./Welfare%20And%20Work/readme.md)
 - [LGBTQ+ Pirate Party UK Index](./topic/LGBTQ+.md)
 
