@@ -1,9 +1,6 @@
 No To Police Commissioners
 ==========================
 
-The election of Police Commissioners will be a step backward for justice 
-in Britain. Whilst we support the idea that those individuals entrusted 
-with upholding and enforcing the law should be open to public scrutiny, 
-we do not believe that they should be elected to their offices and 
-subject to political pressure. The Pirate Party will abolish Police 
-Commissioners.  
+The concept of electing Police Commissioners in Britain is viewed by many as regressive for justice. While transparency in law enforcement is crucial, subjecting these officials to electoral processes introduces the risk of political influence compromising their duties. Therefore, the we will for the removal of Police Commissioners altogether, prioritizing a system that upholds impartiality and effectiveness in maintaining public safety.
+
+

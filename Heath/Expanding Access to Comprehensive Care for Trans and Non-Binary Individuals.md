@@ -1,3 +1,4 @@
-# Expanding Access to Comprehensive Care for Trans and Non-Binary Individuals
+Expanding Access to Comprehensive Care for Trans and Non-Binary Individuals
+=====
 
 The Pirate Party advocates for streamlined legal gender identity changes and inclusion of non-binary options on official documents. They propose empowering general practitioners (GPs) to provide diverse care for trans and non-binary individuals, including monitoring hormone therapy and prescribing puberty blockers. They aim to reduce dependence on gender identity clinics (GICs) by authorizing GPs to offer comprehensive care and order necessary medical tests. Additionally, they call for specialized training for healthcare professionals and collaborative referrals to mental health caregivers with expertise in trans and non-binary healthcare. The party also seeks to incorporate review mechanisms into NHS England's decision-making processes concerning transgender healthcare, ensuring transparency and accountability.

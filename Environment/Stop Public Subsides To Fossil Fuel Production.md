@@ -1,15 +1,4 @@
-# Stop Public Subsides To Fossil Fuel Production
+Stop Public Subsides To Fossil Fuel Production
+=======
 
-We propose the discontinuation of public subsidies for fossil fuel and hydrocarbon production. This change reflects our commitment to reducing the financial support for industries that contribute to environmental challenges. As part of this effort:
-
-1. No further Field Allowances will be granted.
-
-2. The Ring Fence Corporation Tax rate on profits from oil and gas will be increased to 30%.
-
-3. The Supplementary Charge rate will be raised to 32%.
-
-4. The Petroleum Revenue Tax will be set at 50%.
-
-5. We will also immediately halt the issuance of new licenses for oil, gas, and other fossil fuel product exploration and production. No new licenses will be granted moving forward.
-
-Our goal is to foster a transition to more sustainable and environmentally friendly energy sources while ensuring fiscal responsibility and accountability.
+We advocate for ending public subsidies to fossil fuel production, aligning with efforts to address environmental challenges. This entails ceasing the issuance of new licenses for oil, gas, and other fossil fuel exploration and production, alongside discontinuing Field Allowances. Additionally, tax rates on profits from oil and gas, including the Ring Fence Corporation Tax, Supplementary Charge, and Petroleum Revenue Tax, will be increased significantly. By doing so, we aim to encourage a shift toward sustainable energy sources, ensuring both environmental stewardship and fiscal accountability.
