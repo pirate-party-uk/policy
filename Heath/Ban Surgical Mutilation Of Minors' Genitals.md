@@ -1,7 +1,3 @@
 Ban Surgical Mutilation Of Minors' Genitals
 ===========================================
-
-* Surgical mutilation of both infants' and childrens' genitalia would be 
-    banned 
-* The ban would apply to both male and female minors  
-* It would be permitted only with a clear medical justification 
+The Pirate Party advocates for a ban on non-medically necessary genital surgeries for minors, regardless of gender. This policy aims to protect children from unnecessary surgical interventions, which can cause physical and psychological harm without their consent. Research indicates that such procedures can lead to long-term complications and interfere with individuals' autonomy over their bodies. By restricting these surgeries to cases with clear medical justifications, the Pirate Party seeks to safeguard children's well-being and bodily integrity.
