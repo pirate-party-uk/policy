@@ -52,10 +52,6 @@ This document presents a set of policy proposals related to healthcare and well-
 - Commits to undoing privatization in the NHS.
 - [Read More](./Increasing%20NHS%20Funding.md)
 
-## Homeopathy And The NHS
-- Recommends permitting NHS funding for homeopathy or similar treatments only when no non-placebo treatment is available.
-- Focuses on evidence-based healthcare.
-- [Read More](./Homeopathy%20And%20The%20NHS.md)
 
 ## Expanding Access to Comprehensive Care for Trans and Non-Binary Individuals
 - Addresses issues related to trans and non-binary healthcare, including legal identity change, non-binary options, and medical care.
