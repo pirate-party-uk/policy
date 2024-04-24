@@ -1,4 +1,8 @@
  Prevention of Incitement of Violence and Discriminatory Behavior
  ===========================
  
-The Pirate Party UK recognizes the critical importance of preventing the incitement of violence and discriminatory behaviour and upholding the principles of equality and non-discrimination. In this spirit, we propose an amendment to the Racial and Religious Hatred Act 2006, the Equality Act, and the Football Offences Act to include "adoption," "having/getting an abortion," "immigration status," and "refugee status" as protected characteristics. We advocate for expanded protection to include attributes such as age, disability, religion, sexual orientation, transgender identity, and variations in sex characteristics. Our proposed legislation introduces new offences targeting the stirring up of hatred against these groups, with a threshold for prosecution encompassing threatening, abusive, or insulting conduct or material. We pledge to engage with minority communities to address concerns, ensuring that our approach is practical and sensitive to their needs as we strive to foster a society built on inclusivity and respect.
+The Pirate Party UK is dedicated to combating violence and discrimination while championing equality. We propose updates to key legislation such as the Racial and Religious Hatred Act 2006, the Equality Act, the Football Offences Act, and the Public Order Act.
+
+Our amendments aim to broaden protections to include characteristics like adoption, immigration status, and more. We introduce new offenses targeting hate incitement, ensuring legal safeguards against discrimination. We're committed to engaging with minority communities to address concerns and ensure sensitivity in our legislative approach. Through these efforts, we strive for a society where everyone is treated with dignity and respect.
+
+
